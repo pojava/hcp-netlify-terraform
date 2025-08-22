@@ -109,13 +109,13 @@ hcp-netlify-terraform/
 
 ## 📸 Screenshot
 
-![Terraform Apply Screenshot](docs/terraform-apply.png)
+![Terraform Apply Screenshot](screenshot(243).png)
 
 ---
 
 ## ✍️ Blog Post
 
-[Link to blog post](#) describing:
+[Link to blog post](https://dev.to/alao_abdulzahir/deploying-a-live-netlify-site-with-deploying-a-live-netlify-site-with-terraform-hcp-terraform-2fh) describing:
 - Project idea
 - Integration between Netlify + HCP Terraform
 - Reproducibility steps
