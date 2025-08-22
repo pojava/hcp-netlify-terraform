@@ -109,7 +109,7 @@ hcp-netlify-terraform/
 
 ## 📸 Screenshot
 
-![Terraform Apply Screenshot](screenshot(243).png)
+![Terraform Apply Screenshot](https://github.com/pojava/hcp-netlify-terraform/blob/main/Screenshot%20(244).png)
 
 ---
 
